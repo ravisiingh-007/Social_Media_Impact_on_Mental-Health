@@ -153,6 +153,10 @@ dashboard.png
 Then display it in GitHub using:
 
 ![Teen Mental Health Tableau Dashboard](images/dashboard.png)
+
+https://public.tableau.com/app/profile/ravi.singh7995/viz/Project_Teen_Mental_Health_Dataset/Story
+
+
 📁 Project Structure
 Teen-Mental-Health-Analysis/
 │
