@@ -152,7 +152,13 @@ dashboard.png
 
 Then display it in GitHub using:
 
-![Teen Mental Health Tableau Dashboard](images/dashboard.png)
+<img width="100" height="167" alt="kpi" src="https://github.com/user-attachments/assets/6d5d9000-c4bd-4c82-8f0e-4bfb6dd72679" />
+
+<img width="847" height="741" alt="sleep_vs_gpa" src="https://github.com/user-attachments/assets/f0215e43-7ed1-48f0-a97f-a701476bca70" />
+<img width="386" height="741" alt="platform_breakdown" src="https://github.com/user-attachments/assets/b5c1ef1e-5854-4247-9379-70309c09b69c" />
+<img width="1499" height="741" alt="age_risk_trends" src="https://github.com/user-attachments/assets/5a029184-4da5-4551-85ee-71f8aa304e46" />
+
+
 
 https://public.tableau.com/app/profile/ravi.singh7995/viz/Project_Teen_Mental_Health_Dataset/Story
 
